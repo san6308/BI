@@ -1,0 +1,40 @@
+Web Based applications
+Windows based applicaitons
+Client-Server based application
+Retail Domain 
+==============
+RMS : RETAIL MERCHANDISE SERVICE----12345
+Configure something called as SKU information
+Stock Keeping Unit-----
+Apply Taxes related to sku (1=food tax.,2= mer,3= automtax)
+MDM : MASTER DATA MANAGEMENT
+SKU is succefully intergrqtion with your entire syste,
+changes
+
+Payment services (Verfione)--------100$
+===========================
+you can have any combination of payment method
+
+
+Shipment :(PKMS) Pickment services----1 Day delvier
+==========
+Warehouse to 
+
+POS : POINT OF SALES-------------------Order Number=12 
+SKU : STOCK KEPPING UNIT
+=====================================================
+=====================================================
+=====================================================
+LIFE CYCLE ACTIVITY TOOLS
+TEST COVERAGE/QUALITY CENTER/EXCEL
+
+
+Unit testing :Is performed by Dev...test the functionality inorder to make sure
+product/applicaiton lookks good before we deliver product to Testing team
+
+Integration Testing :
+=======================
+individual software modules are going ahead and combine as a group and 
+
+
+
